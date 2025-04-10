@@ -1,5 +1,5 @@
 {
-  "exportedAt": "26/3/2025 14:30:32",
+  "exportedAt": "9/4/2025 14:55:09",
   "data": {
     "Bonnín Roca, Josep Lluís": {
       "2025-1": {},
@@ -45,7 +45,21 @@
           "comment": "Acompanyar parella al metge (BCN)"
         }
       },
-      "2025-3": {}
+      "2025-3": {},
+      "2025-4": {
+        "7": {
+          "type": 3,
+          "comment": "Acompanyar parella per intervenció a Barcelona"
+        },
+        "8": {
+          "type": 3,
+          "comment": "Acompanyar parella per intervenció a Barcelona"
+        },
+        "9": {
+          "type": 3,
+          "comment": "Acompanyar parella per intervenció a Barcelona"
+        }
+      }
     },
     "Quirós Menéndez, Eva": {
       "2025-1": {},
@@ -79,8 +93,17 @@
         "13": 7,
         "14": 7,
         "17": 7,
-        "18": 7
-      }
+        "18": 7,
+        "19": 7,
+        "20": 7,
+        "21": 7,
+        "24": 7,
+        "25": 7,
+        "26": 7,
+        "27": 7,
+        "28": 7
+      },
+      "2025-4": {}
     },
     "Vidal Llabrés, Catalina": {
       "2025-2": {
@@ -98,6 +121,13 @@
       "2025-1": {},
       "2025-2": {
         "28": 2
+      },
+      "2025-4": {
+        "21": 1,
+        "22": 1,
+        "23": 1,
+        "24": 1,
+        "25": 1
       }
     },
     "Moll Benejam, Catalina": {
@@ -131,8 +161,12 @@
           "type": 3,
           "comment": "intervenció quirúrgica cònjuge"
         },
-        "3": 2
-      }
+        "3": 2,
+        "9": 2,
+        "11": 2,
+        "16": 2
+      },
+      "2025-5": {}
     },
     "Roselló Ribas, Vicent Xavier": {
       "2025-1": {
@@ -141,6 +175,11 @@
       },
       "2025-3": {
         "19": 2
+      },
+      "2025-4": {
+        "21": 1,
+        "22": 1,
+        "23": 1
       }
     },
     "Coll Amengual, Josep": {
@@ -154,11 +193,108 @@
         "28": 2
       },
       "2025-4": {
+        "2": {
+          "type": 3,
+          "comment": "intervenció quirúrgica"
+        },
+        "7": 2,
         "10": 2,
         "11": 2,
         "14": 2,
         "15": 2,
         "16": 2
+      }
+    },
+    "Pons Bosch, Jordi": {
+      "2025-4": {
+        "22": 1,
+        "23": 1,
+        "24": 1,
+        "25": 1
+      }
+    },
+    "Gálvez Capellà, Francisco Javier": {
+      "2025-4": {
+        "3": {
+          "type": 3,
+          "comment": "Permís per ingrés hosp. pare"
+        },
+        "4": {
+          "type": 3,
+          "comment": "Permís per ingrés hosp. pare"
+        },
+        "7": {
+          "type": 3,
+          "comment": "Permís per ingrés hosp. pare"
+        }
+      }
+    },
+    "Tomàs Humbert, Mateu": {
+      "2025-4": {
+        "22": 2,
+        "24": 2,
+        "25": 2
+      }
+    },
+    "Sánchez Moner, Josep Bernat": {
+      "2025-4": {
+        "22": 1,
+        "23": 1,
+        "24": 1,
+        "25": 1
+      }
+    },
+    "Oliver Llaneras, Lluc": {
+      "2025-4": {
+        "3": {
+          "type": 3,
+          "comment": "Assistència a congrès FP-Cartagena"
+        },
+        "4": {
+          "type": 3,
+          "comment": "Assistència a congrès FP-Cartagena"
+        },
+        "22": 1,
+        "23": 1,
+        "24": 1,
+        "25": 1
+      },
+      "2025-5": {
+        "2": 1
+      }
+    },
+    "Dengra Rosselló, Beatriz": {
+      "2025-4": {},
+      "2025-3": {
+        "24": {
+          "type": 3,
+          "comment": "ingrés hospitalari mare"
+        },
+        "25": {
+          "type": 3,
+          "comment": "ingrés hospitalari mare"
+        },
+        "26": {
+          "type": 3,
+          "comment": "ingrés hospitalari mare"
+        }
+      }
+    },
+    "Rey Porca, Juan José": {
+      "2025-4": {
+        "3": {
+          "type": 3,
+          "comment": "Permís per assistència a Congrès FP-Cartagena "
+        },
+        "4": {
+          "type": 3,
+          "comment": "Permís per assistència a Congrès FP-Cartagena "
+        }
+      }
+    },
+    "Mascaró Moll, Jaume": {
+      "2025-4": {
+        "7": 2
       }
     }
   }
