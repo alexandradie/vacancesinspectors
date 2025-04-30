@@ -1,14 +1,25 @@
 {
-  "exportedAt": "9/4/2025 14:55:09",
+  "exportedAt": "30/4/2025 15:02:27",
   "data": {
     "Bonnín Roca, Josep Lluís": {
       "2025-1": {},
       "2025-2": {
         "28": 2
+      },
+      "2025-5": {},
+      "2025-4": {
+        "22": 2,
+        "23": 2,
+        "24": 2,
+        "25": 2,
+        "30": 2
       }
     },
     "Amengual Buñola, Guillem A.": {
-      "2025-1": {}
+      "2025-1": {},
+      "2025-5": {
+        "2": 7
+      }
     },
     "Domínguez Vallés, Josep M.": {
       "2025-1": {},
@@ -25,11 +36,20 @@
           "type": 3,
           "comment": "Permís per malaltia (germà)"
         }
+      },
+      "2025-4": {
+        "22": 1,
+        "23": 1,
+        "24": 1,
+        "25": 1
       }
     },
     "Tomás Bergas, Damián": {
       "2025-2": {
         "28": 2
+      },
+      "2025-4": {
+        "22": 2
       }
     },
     "Prohens Mas, M. Pilar": {
@@ -65,6 +85,10 @@
       "2025-1": {},
       "2025-2": {
         "12": 4
+      },
+      "2025-5": {
+        "2": 2,
+        "22": 2
       }
     },
     "García Machancoses, Carolina": {
@@ -128,6 +152,12 @@
         "23": 1,
         "24": 1,
         "25": 1
+      },
+      "2025-5": {
+        "5": {
+          "type": 3,
+          "comment": "permís per concórrer a exàmens"
+        }
       }
     },
     "Moll Benejam, Catalina": {
@@ -164,9 +194,19 @@
         "3": 2,
         "9": 2,
         "11": 2,
-        "16": 2
+        "16": 2,
+        "21": 1,
+        "22": 1,
+        "23": 1,
+        "24": 1
       },
-      "2025-5": {}
+      "2025-5": {
+        "2": 2,
+        "5": {
+          "type": 3,
+          "comment": "permís per concórrer a exàmens"
+        }
+      }
     },
     "Roselló Ribas, Vicent Xavier": {
       "2025-1": {
@@ -185,6 +225,10 @@
     "Coll Amengual, Josep": {
       "2025-3": {
         "21": 2
+      },
+      "2025-5": {},
+      "2025-4": {
+        "22": 1
       }
     },
     "Gomila i Benejam, Josep": {
@@ -203,6 +247,9 @@
         "14": 2,
         "15": 2,
         "16": 2
+      },
+      "2025-5": {
+        "2": 2
       }
     },
     "Pons Bosch, Jordi": {
@@ -234,6 +281,10 @@
         "22": 2,
         "24": 2,
         "25": 2
+      },
+      "2025-5": {
+        "16": 1,
+        "19": 1
       }
     },
     "Sánchez Moner, Josep Bernat": {
@@ -289,12 +340,109 @@
         "4": {
           "type": 3,
           "comment": "Permís per assistència a Congrès FP-Cartagena "
-        }
+        },
+        "23": 1,
+        "24": 1,
+        "25": 1
       }
     },
     "Mascaró Moll, Jaume": {
       "2025-4": {
         "7": 2
+      },
+      "2025-5": {
+        "2": 2
+      }
+    },
+    "Olariaga Rodríguez, Ernesto": {
+      "2025-1": {},
+      "2025-5": {
+        "9": {
+          "type": 3,
+          "comment": "Residual 2024"
+        }
+      },
+      "2025-4": {}
+    },
+    "Rossinyol Seguí, Maria Antònia": {
+      "2025-5": {
+        "2": 2
+      }
+    },
+    "Moner Mora, Catalina": {
+      "2025-5": {
+        "2": 7
+      },
+      "2025-4": {
+        "25": 7,
+        "28": 7,
+        "29": 7,
+        "30": 7
+      }
+    },
+    "Martorell i Gelabert, Carme": {
+      "2025-5": {
+        "2": {
+          "type": 3,
+          "comment": "rúrgica de la mare"
+        },
+        "5": {
+          "type": 3,
+          "comment": "rúrgica de la mare"
+        }
+      },
+      "2025-4": {
+        "16": {
+          "type": 3,
+          "comment": "Acompanyar mare a visita mèdica"
+        },
+        "29": {
+          "type": 3,
+          "comment": "Intervenció quirúrgica de la mare"
+        },
+        "30": {
+          "type": 3,
+          "comment": "rúrgica de la mare"
+        }
+      }
+    },
+    "Cardell Ortus, Artur": {
+      "2025-4": {
+        "30": 2
+      },
+      "2025-5": {
+        "2": 2
+      }
+    },
+    "García Moles, Francisco": {
+      "2025-4": {
+        "22": 2,
+        "23": 2,
+        "24": 2,
+        "25": 2
+      }
+    },
+    "Coll Llompart, Margalida": {
+      "2025-4": {
+        "22": 1,
+        "23": 1
+      }
+    },
+    "Lladó Ballester, Joana": {
+      "2025-4": {},
+      "2025-5": {
+        "2": {
+          "type": 3,
+          "comment": "R 2024"
+        }
+      }
+    },
+    "Timoner Sampol, Gabriel": {
+      "2025-5": {
+        "9": {
+          "type": 3,
+          "comment": "R 2024"
+        }
       }
     }
   }
