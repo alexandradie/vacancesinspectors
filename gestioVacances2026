@@ -1,0 +1,277 @@
+{
+  "exportedAt": "16/1/2026 9:21:50",
+  "data": {
+    "Bonnín Roca, Josep Lluís": {},
+    "Amengual Buñola, Guillem A.": {
+      "2026-1": {
+        "2": 2,
+        "5": 2
+      }
+    },
+    "Domínguez Vallés, Josep M.": {},
+    "Tomás Bergas, Damián": {
+      "2026-1": {
+        "2": 1,
+        "5": 1
+      },
+      "2026-2": {
+        "12": 2,
+        "13": 2,
+        "26": 2,
+        "27": 2
+      },
+      "2026-3": {
+        "3": 2,
+        "4": 2
+      }
+    },
+    "Prohens Mas, M. Pilar": {
+      "2026-1": {
+        "2": 1,
+        "5": 1,
+        "19": {
+          "type": 3,
+          "comment": "Acompanyament parella a visita mèdica a Barcelona"
+        }
+      }
+    },
+    "Quirós Menéndez, Eva": {
+      "2026-1": {
+        "2": 1,
+        "5": 1
+      },
+      "2026-2": {
+        "13": 1,
+        "16": 2
+      },
+      "2026-3": {
+        "19": 2,
+        "20": 2
+      }
+    },
+    "García Machancoses, Carolina": {},
+    "Vidal Llabrés, Catalina": {
+      "2026-1": {
+        "2": 1,
+        "5": 1,
+        "16": 1,
+        "19": 1
+      }
+    },
+    "Frontera Noguera, Joana Maria": {
+      "2026-1": {
+        "2": 2
+      }
+    },
+    "Moll Benejam, Catalina": {
+      "2026-1": {
+        "2": 1,
+        "5": 1
+      }
+    },
+    "Roselló Ribas, Vicent Xavier": {},
+    "Coll Amengual, Josep": {
+      "2026-1": {
+        "2": 2,
+        "5": 1
+      },
+      "2026-2": {}
+    },
+    "Gomila i Benejam, Josep": {
+      "2026-1": {
+        "2": 1,
+        "5": 1,
+        "19": 1
+      }
+    },
+    "Pons Bosch, Jordi": {
+      "2026-1": {
+        "2": 2,
+        "5": 2
+      }
+    },
+    "Gálvez Capellà, Francisco Javier": {
+      "2026-1": {
+        "2": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      }
+    },
+    "Tomàs Humbert, Mateu": {
+      "2026-1": {
+        "2": 2,
+        "5": 2,
+        "16": 2,
+        "19": 2
+      }
+    },
+    "Sánchez Moner, Josep Bernat": {
+      "2026-1": {
+        "2": 2,
+        "5": 2
+      }
+    },
+    "Oliver Llaneras, Lluc": {
+      "2026-1": {
+        "2": 2,
+        "5": 2,
+        "7": 2
+      }
+    },
+    "Dengra Rosselló, Beatriz": {
+      "2026-1": {
+        "5": 2
+      },
+      "2026-2": {}
+    },
+    "Rey Porca, Juan José": {
+      "2026-1": {
+        "2": 2,
+        "5": 2
+      }
+    },
+    "Mascaró Moll, Jaume": {
+      "2026-1": {
+        "2": 2,
+        "5": 2
+      }
+    },
+    "Olariaga Rodríguez, Ernesto": {},
+    "Rossinyol Seguí, Maria Antònia": {
+      "2026-1": {
+        "2": 1,
+        "5": 1
+      }
+    },
+    "Moner Mora, Catalina": {
+      "2026-1": {
+        "2": 2,
+        "5": 2,
+        "19": 2
+      },
+      "2026-3": {
+        "24": 2,
+        "25": 2,
+        "26": 2,
+        "27": 2
+      }
+    },
+    "Martorell i Gelabert, Carme": {
+      "2026-1": {
+        "2": 2,
+        "5": 2,
+        "8": 2
+      }
+    },
+    "Cardell Ortus, Artur": {
+      "2026-1": {}
+    },
+    "García Moles, Francisco": {
+      "2026-1": {
+        "2": 2,
+        "5": 2
+      }
+    },
+    "Coll Llompart, Margalida": {
+      "2026-1": {
+        "2": 1,
+        "5": 2
+      }
+    },
+    "Lladó Ballester, Joana": {
+      "2026-1": {
+        "2": 2,
+        "5": 2,
+        "16": 2,
+        "19": 2
+      }
+    },
+    "Timoner Sampol, Gabriel": {
+      "2026-1": {
+        "2": 1,
+        "5": 1
+      }
+    },
+    "Tirado Ramos, Miguel Ángel": {
+      "2026-1": {
+        "2": 1,
+        "5": 1
+      }
+    },
+    "Fiol Martorell, Miquel": {
+      "2026-1": {
+        "2": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1
+      },
+      "2026-2": {
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "9": 2,
+        "10": 2,
+        "11": 2,
+        "12": 2,
+        "13": 2
+      }
+    },
+    "Bordas Gómez de la Tia, Pasqual": {
+      "2026-1": {
+        "2": 1,
+        "5": 2
+      },
+      "2026-2": {
+        "13": 2,
+        "16": 2
+      }
+    },
+    "Mas Homar, Catalina": {
+      "2026-1": {
+        "2": 2,
+        "5": 2,
+        "19": 2
+      }
+    },
+    "Erustes Lobato, José Antonio": {
+      "2026-1": {
+        "2": 2,
+        "5": 2
+      }
+    },
+    "Zarrias Ruíz, Esther": {
+      "2026-1": {
+        "2": 2,
+        "5": 1,
+        "21": 2,
+        "29": 1,
+        "30": 1
+      },
+      "2026-2": {}
+    },
+    "Bujosa Bohm, Adela": {
+      "2026-1": {
+        "2": 2,
+        "5": 2
+      }
+    },
+    "Mateu Arcos, Isabel": {
+      "2026-1": {
+        "2": 2,
+        "5": 2
+      }
+    },
+    "Quetgles Ramis, Ramon Àngel": {
+      "2026-1": {
+        "2": 2,
+        "5": 2,
+        "16": 2
+      }
+    }
+  }
+}
