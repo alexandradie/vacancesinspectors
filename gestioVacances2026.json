@@ -1,5 +1,5 @@
 {
-  "exportedAt": "29/1/2026 9:20:39",
+  "exportedAt": "10/2/2026 8:42:07",
   "data": {
     "Bonnín Roca, Josep Lluís": {},
     "Amengual Buñola, Guillem A.": {
@@ -37,6 +37,12 @@
         "19": {
           "type": 3,
           "comment": "Acompanyament parella a visita mèdica a Barcelona"
+        }
+      },
+      "2026-2": {
+        "11": {
+          "type": 3,
+          "comment": "ingrés hospitalari germà"
         }
       }
     },
@@ -144,12 +150,21 @@
         "2": 6,
         "5": 6
       },
-      "2026-3": {}
+      "2026-3": {},
+      "2026-2": {
+        "12": 4,
+        "13": 4
+      }
     },
     "Mascaró Moll, Jaume": {
       "2026-1": {
         "2": 6,
         "5": 6
+      },
+      "2026-2": {
+        "17": 6,
+        "26": 6,
+        "27": 6
       }
     },
     "Olariaga Rodríguez, Ernesto": {
@@ -189,7 +204,11 @@
       "2026-2": {}
     },
     "Cardell Ortus, Artur": {
-      "2026-1": {}
+      "2026-1": {},
+      "2026-2": {
+        "12": 4,
+        "13": 4
+      }
     },
     "García Moles, Francisco": {
       "2026-1": {
@@ -265,7 +284,9 @@
         "13": 6,
         "16": 6
       },
-      "2026-3": {}
+      "2026-3": {
+        "5": 4
+      }
     },
     "Mas Homar, Catalina": {
       "2026-1": {
@@ -303,6 +324,10 @@
       "2026-1": {
         "2": 6,
         "5": 6
+      },
+      "2026-2": {
+        "26": 2,
+        "27": 2
       }
     },
     "Quetgles Ramis, Ramon Àngel": {
@@ -313,7 +338,25 @@
       }
     },
     "Moll Benejam, Caterina": {
-      "2026-1": {}
+      "2026-1": {},
+      "2026-3": {
+        "5": {
+          "type": 3,
+          "comment": "Formació jornades IDEIB"
+        }
+      },
+      "2026-2": {
+        "12": {
+          "type": 3,
+          "comment": "Formació Jornades USIE"
+        },
+        "13": {
+          "type": 3,
+          "comment": "Formació Jornades USIE"
+        },
+        "17": 2,
+        "27": 2
+      }
     }
   }
 }
