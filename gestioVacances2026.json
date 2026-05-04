@@ -1,5 +1,5 @@
 {
-  "exportedAt": "24/4/2026 9:39:15",
+  "exportedAt": "27/4/2026 10:30:22",
   "data": {
     "Bonnín Roca, Josep Lluís": {},
     "Amengual Buñola, Guillem A.": {
@@ -185,7 +185,8 @@
         "15": 2,
         "16": 2,
         "17": 2,
-        "20": 2
+        "20": 2,
+        "30": 2
       }
     },
     "Pons Bosch, Jordi": {
@@ -262,6 +263,9 @@
       },
       "2026-3": {
         "3": 6
+      },
+      "2026-5": {
+        "4": 2
       }
     },
     "Oliver Llaneras, Lluc": {
@@ -391,7 +395,11 @@
         "7": 6,
         "8": 6,
         "9": 6,
-        "10": 6
+        "10": 6,
+        "28": {
+          "type": 3,
+          "comment": "Intervenció quirúrgica"
+        }
       }
     },
     "Cardell Ortus, Artur": {
