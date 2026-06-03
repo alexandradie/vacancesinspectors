@@ -1,5 +1,5 @@
 {
-  "exportedAt": "15/5/2026 9:13:23",
+  "exportedAt": "2/6/2026 9:14:40",
   "data": {
     "Bonnín Roca, Josep Lluís": {},
     "Amengual Buñola, Guillem A.": {
@@ -73,6 +73,12 @@
         "27": {
           "type": 3,
           "comment": "visita mèdica Barcelona"
+        }
+      },
+      "2026-5": {
+        "28": {
+          "type": 3,
+          "comment": "Visita mèdica Barcelona"
         }
       }
     },
@@ -167,6 +173,9 @@
         "9": 1,
         "10": 1,
         "17": 2
+      },
+      "2026-5": {
+        "29": 2
       }
     },
     "Gomila i Benejam, Josep": {
@@ -252,6 +261,9 @@
           "type": 3,
           "comment": "cita mèdica pare"
         }
+      },
+      "2026-6": {
+        "19": 2
       }
     },
     "Sánchez Moner, Josep Bernat": {
@@ -410,6 +422,9 @@
           "type": 3,
           "comment": "Intervenció quirúrgica"
         }
+      },
+      "2026-5": {
+        "18": 1
       }
     },
     "Cardell Ortus, Artur": {
@@ -451,6 +466,9 @@
       },
       "2026-5": {
         "8": 2
+      },
+      "2026-6": {
+        "1": 2
       }
     },
     "Coll Llompart, Margalida": {
@@ -495,6 +513,9 @@
       },
       "2026-5": {
         "13": 2
+      },
+      "2026-6": {
+        "2": 2
       }
     },
     "Timoner Sampol, Gabriel": {
@@ -510,6 +531,9 @@
         "8": 6,
         "9": 6,
         "10": 6
+      },
+      "2026-5": {
+        "29": 1
       }
     },
     "Tirado Ramos, Miguel Ángel": {
@@ -668,6 +692,10 @@
           "type": 3,
           "comment": "Permís malaltia greu familiar"
         }
+      },
+      "2026-6": {
+        "22": 2,
+        "23": 2
       }
     },
     "Quetgles Ramis, Ramon Àngel": {
