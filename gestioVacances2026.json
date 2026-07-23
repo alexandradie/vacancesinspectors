@@ -1,5 +1,5 @@
 {
-  "exportedAt": "22/7/2026 12:00:36",
+  "exportedAt": "23/7/2026 8:29:55",
   "data": {
     "Bonnín Roca, Josep Lluís": {},
     "Amengual Buñola, Guillem A.": {
@@ -397,6 +397,20 @@
         "27": 1,
         "28": 1,
         "31": 1
+      },
+      "2026-11": {
+        "18": {
+          "type": 3,
+          "comment": "Permís Congrés"
+        },
+        "19": {
+          "type": 3,
+          "comment": "Permís Congrés"
+        },
+        "20": {
+          "type": 3,
+          "comment": "Permís Congrés"
+        }
       }
     },
     "Gálvez Capellà, Francisco Javier": {
