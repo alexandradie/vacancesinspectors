@@ -1,5 +1,5 @@
 {
-  "exportedAt": "27/8/2026 9:57:47",
+  "exportedAt": "27/8/2026 11:07:01",
   "data": {
     "Bonnín Roca, Josep Lluís": {},
     "Amengual Buñola, Guillem A.": {
@@ -592,7 +592,11 @@
         "20": 1,
         "21": 1,
         "24": 1,
-        "26": 2
+        "26": 2,
+        "27": {
+          "type": 3,
+          "comment": "Visita mèdica"
+        }
       }
     },
     "Sánchez Moner, Josep Bernat": {
