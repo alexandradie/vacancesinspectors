@@ -1,5 +1,5 @@
 {
-  "exportedAt": "4/9/2026 11:10:14",
+  "exportedAt": "7/9/2026 12:11:36",
   "data": {
     "Bonnín Roca, Josep Lluís": {},
     "Amengual Buñola, Guillem A.": {
@@ -1447,6 +1447,26 @@
       "2026-10": {
         "8": 1,
         "9": 1
+      },
+      "2026-9": {
+        "23": {
+          "type": 3,
+          "comment": "Acompanyament metge fill"
+        }
+      },
+      "2026-11": {
+        "18": {
+          "type": 3,
+          "comment": "Congrés Tarragona"
+        },
+        "19": {
+          "type": 3,
+          "comment": "Congrés Tarragona"
+        },
+        "20": {
+          "type": 3,
+          "comment": "Congrés Tarragona"
+        }
       }
     },
     "Mas Homar, Catalina": {
