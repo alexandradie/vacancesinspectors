@@ -1,5 +1,5 @@
 {
-  "exportedAt": "9/9/2026 11:18:12",
+  "exportedAt": "10/9/2026 8:35:48",
   "data": {
     "Bonnín Roca, Josep Lluís": {},
     "Amengual Buñola, Guillem A.": {
@@ -1449,6 +1449,10 @@
         "9": 1
       },
       "2026-9": {
+        "16": {
+          "type": 3,
+          "comment": "Intervenció quirúrgica seva dona"
+        },
         "23": {
           "type": 3,
           "comment": "Acompanyament metge fill"
