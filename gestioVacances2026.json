@@ -1,5 +1,5 @@
 {
-  "exportedAt": "20/10/2026 10:30:21",
+  "exportedAt": "22/10/2026 8:17:01",
   "data": {
     "Bonnín Roca, Josep Lluís": {},
     "Amengual Buñola, Guillem A.": {
@@ -1467,6 +1467,10 @@
         "14": {
           "type": 3,
           "comment": "Proves mèdiques seu fill"
+        },
+        "28": {
+          "type": 3,
+          "comment": "Visita mèdica"
         }
       },
       "2026-9": {
@@ -1484,6 +1488,7 @@
         }
       },
       "2026-11": {
+        "2": 1,
         "18": {
           "type": 3,
           "comment": "Congrés Tarragona"
@@ -1495,7 +1500,11 @@
         "20": {
           "type": 3,
           "comment": "Congrés Tarragona"
-        }
+        },
+        "23": 1
+      },
+      "2026-12": {
+        "7": 1
       }
     },
     "Mas Homar, Catalina": {
