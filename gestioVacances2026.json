@@ -1,5 +1,5 @@
 {
-  "exportedAt": "27/10/2026 9:00:08",
+  "exportedAt": "27/10/2026 10:29:50",
   "data": {
     "Bonnín Roca, Josep Lluís": {},
     "Amengual Buñola, Guillem A.": {
@@ -1688,20 +1688,18 @@
         }
       },
       "2026-12": {
-        "7": 2,
-        "29": {
-          "type": 3,
-          "comment": "Permís per formació màster universitari"
-        },
-        "30": {
-          "type": 3,
-          "comment": "Permís per formació màster universitari"
-        }
+        "7": 2
       },
       "2027-3": {
         "12": {
           "type": 3,
           "comment": "Permís per formació màster universitari"
+        }
+      },
+      "2027-1": {
+        "29": {
+          "type": 3,
+          "comment": "Permís per formació máster"
         }
       }
     },
