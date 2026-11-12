@@ -1,5 +1,5 @@
 {
-  "exportedAt": "12/11/2026 8:39:25",
+  "exportedAt": "12/11/2026 8:48:59",
   "data": {
     "Bonnín Roca, Josep Lluís": {},
     "Amengual Buñola, Guillem A.": {
@@ -1812,7 +1812,9 @@
       },
       "2027-1": {},
       "2026-12": {
-        "7": 2
+        "7": 2,
+        "28": 1,
+        "29": 1
       }
     },
     "Mateu Arcos, Isabel": {
